@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Bush</h1>
 <h3 align="center">I'm a machine learning researcher with a background in data science, cognitive science, and computational neuroscience. I build models to analyze behavior, language, and brain data, aiming to understand and replicate intelligent behavior.</h3>
 
-<p align="left"> <a href="https://twitter.com/@thomasbush99" target="blank"><img src="https://img.shields.io/twitter/follow/@thomasbush99?logo=twitter&style=for-the-badge" alt="@thomasbush99" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thomasbush99" target="blank"><img src="https://img.shields.io/twitter/follow/@thomasbush99?logo=twitter&style=for-the-badge" alt="thomasbush99" /></a> </p>
 
 - 🐁 3D behavioral reconstruction and syllable modeling in mice for the Iurilli Lab [3d-setup](https://github.com/iurillilab/3d-setup)
 
