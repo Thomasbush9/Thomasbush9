@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/thomasbush99" target="blank"><img src="https://img.shields.io/twitter/follow/thomasbush99?logo=twitter&style=for-the-badge" alt="thomasbush99" /></a> </p>
 
 - 🐁 3D behavioral reconstruction and syllable modeling in mice for the Iurilli Lab [3d-setup](https://github.com/iurillilab/3d-setup)
+- Personal Blog at [Thomas Bush](https://thomasbush9.github.io/myblog/)
 
 - 🌱 I’m currently learning **alphafold, neural analysis and marimo notebooks**
 
